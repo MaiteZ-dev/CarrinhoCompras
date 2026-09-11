@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CarrinhoCompras.Tests/CarrinhoCompras.Tests.csproj" Id="58e3f9dc-6bb0-438d-9aa6-28841fee26fc" />
+  <Project Path="CarrinhoCompras/CarrinhoCompras.csproj" Id="29b88259-85ec-406f-9e86-fc72a050b49c" />
+</Solution>
